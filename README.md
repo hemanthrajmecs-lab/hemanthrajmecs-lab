@@ -14,7 +14,7 @@
 
 ## About Me
 
-- Data Engineer with 5+ years building production pipelines on GCP
+- Data Engineer with experience in building production pipelines on GCP
 - Currently working in insurance data engineering at State Farm
 - Interested in AI-augmented data platforms and real-time streaming
 
